@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Basisverzeichnis
+# Cisco DNA Backup directory
 BASE_DIR="/mnt/automation/cluster1"
 
 # Search only the first subfolders of the base directory
