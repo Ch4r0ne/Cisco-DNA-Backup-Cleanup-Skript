@@ -67,7 +67,7 @@ Ensure the cron job is scheduled correctly:
 crontab -l
 ```
 
-You should see the entry for the cleanup script.
+In the Cisco DNA web interface you will see that the backup disappears after a short time.
 
 ## Support
 
