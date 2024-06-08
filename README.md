@@ -42,7 +42,7 @@ DAYS="+30"
 Make the scripts executable:
 
 ```sh
-chmod +x delete_files.sh
+chmod +x preview_delete_files.sh
 ```
 
 ### 3. Configure the Cron Job
